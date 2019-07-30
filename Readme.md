@@ -7,7 +7,7 @@
 <!-- default file list end -->
 # How to sort a nested ListView at the business objects level, in code
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e1253)**
+**[[Run Online]](https://codecentral.devexpress.com/e1253/)**
 <!-- run online end -->
 
 
